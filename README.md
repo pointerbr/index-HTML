@@ -1,1 +1,1 @@
-This is my portfolio, which is still under development. 
+This is my index, which is still under development. 
