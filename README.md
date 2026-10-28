@@ -1,1 +1,1 @@
-it is my portifólio HTML 
+This is my portfolio, which is still under development. 
